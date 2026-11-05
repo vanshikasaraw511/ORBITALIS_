@@ -1,0 +1,8 @@
+{
+  "name": "ORBITALIS — Space Biomedical Intelligence",
+  "description": "Space biomedical intelligence and four-channel optical signal analysis platform inspired by spaceflight neuro-hemodynamic monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
